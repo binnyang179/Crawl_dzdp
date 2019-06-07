@@ -1,0 +1,9 @@
+#LWP-Cookies-2.0
+Set-Cookie3: MUID=346037F06DFF6D11085B3AAA6CD16CA2; path="/"; domain=".bing.com"; path_spec; expires="2020-06-05 10:40:16Z"; version=0
+Set-Cookie3: SRCHD="AF=NOFORM"; path="/"; domain=".bing.com"; path_spec; domain_dot; expires="2021-05-12 10:40:16Z"; version=0
+Set-Cookie3: SRCHUID="V=2&GUID=96A146D80B084BE7B5A38C536287480E&dmnchg=1"; path="/"; domain=".bing.com"; path_spec; domain_dot; expires="2021-05-12 10:40:16Z"; version=0
+Set-Cookie3: SRCHUSR="DOB=20190512"; path="/"; domain=".bing.com"; path_spec; domain_dot; expires="2021-05-12 10:40:16Z"; version=0
+Set-Cookie3: _EDGE_S="F=1&SID=308474D98615649B13A07983873B65E2"; path="/"; domain=".bing.com"; path_spec; discard; httponly=None; version=0
+Set-Cookie3: _EDGE_V=1; path="/"; domain=".bing.com"; path_spec; expires="2020-06-05 10:40:16Z"; httponly=None; version=0
+Set-Cookie3: _SS="SID=308474D98615649B13A07983873B65E2"; path="/"; domain=".bing.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: MUIDB=346037F06DFF6D11085B3AAA6CD16CA2; path="/"; domain="www.bing.com"; path_spec; expires="2020-06-05 10:40:16Z"; httponly=None; version=0
